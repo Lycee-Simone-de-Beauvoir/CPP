@@ -7,5 +7,10 @@ Mme Juliette RICARD - 📨 [juliette.ricard@lycee-de-beauvoir.education](juliett
 ## Introduction
 
 ## 00 - Utilisation d'un IDE
+- TP de découverte de CLion : [TP00_utilisationIDE](TP/cpp-tp01-utilisationIDE/README.md)
 
 ## 01 - Variables et opérateurs
+
+## 02 - Structures alternatives
+
+## 03 - Structures répétitives
