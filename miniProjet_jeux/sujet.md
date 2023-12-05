@@ -1,5 +1,5 @@
 # Mini projet en C++ : Création d'un jeu basique"  
-BTS CIEL Informatique et Réseaux
+BTS CIEL Informatique et Réseaux  
 05/12/2023
 
 ## Conditions
@@ -40,7 +40,7 @@ Si une équipe dépasse ce score, elle retombe à 25 points.
 Lorsqu'une quille a été abattue, on la redresse sur son pied, le numéro 
 face à la zone de lancer, juste là où elle se trouve.
 
-\vspace{15pt}
+
 L'objectif de ce mini-projet va être de créer un programme permettant de 
 compter les points au Mölkky au cours d'une partie.
 
@@ -58,7 +58,7 @@ Votre programme pourra gérer les matchs entre trois équipes.
 On implémentera une variante du jeu, où chaque équipe pourra effectuer 
 jusqu'à 3 lancers à la suite avant de faire jouer l'équipe suivante.
 
-\vspace{30pt}
+
 ### Zanzibar
 
 * 2 joueurs et +
@@ -86,7 +86,7 @@ aléatoirement.
 **Niveau 2 :**  
 Votre programme pourra gérer les matchs entre trois joueurs.  
 
-\vspace{30pt}
+
 ### Bataille navale
 
 * 2 joueurs  
