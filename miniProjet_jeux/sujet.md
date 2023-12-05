@@ -1,26 +1,25 @@
----
-title: "Mini projet en C++ : Création d'un jeu basique"  
-author : "BTS CIEL Informatique et Réseaux"
-date : 05/12/2023
+# Mini projet en C++ : Création d'un jeu basique"  
+BTS CIEL Informatique et Réseaux
+05/12/2023
 
-# Conditions
+## Conditions
 
-## Organisation
+### Organisation
 
 * par groupe de 2 (ou 3 maximum)  
 * 3 séances en classe  
 * être en mesure d'expliquer chaque ligne du code et de justifier ses choix.
 
-## Contraintes techniques
+### Contraintes techniques
 
 * Pas d'utilisation d'outils autres que de la documentation (IA interdite)  
 * Vous vous efforcerez de décomposer votre programme en différentes fonctions.  
 * Chaque membre du groupe doit programmer au moins une fonctionnalité du 
 programme final et mettre son nom en commentaire pour l'identifier.  
 
-# Sujets
+## Sujets
 
-## Jeu du Mölkky
+### Jeu du Mölkky
 
 Le mölkky est un jeu d'adresse inventé par l'entreprise finlandaise Lahden 
 Paikka. Le principe du jeu est de faire tomber des quilles en bois à l'aide 
@@ -60,7 +59,7 @@ On implémentera une variante du jeu, où chaque équipe pourra effectuer
 jusqu'à 3 lancers à la suite avant de faire jouer l'équipe suivante.
 
 \vspace{30pt}
-## Zanzibar
+### Zanzibar
 
 * 2 joueurs et +
 * 3 dés
@@ -88,7 +87,7 @@ aléatoirement.
 Votre programme pourra gérer les matchs entre trois joueurs.  
 
 \vspace{30pt}
-## Bataille navale
+### Bataille navale
 
 * 2 joueurs  
 * 1 plateau à 2 tableaux
